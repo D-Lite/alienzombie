@@ -9,6 +9,8 @@
         <p>
             They look suspicious. Answer the questions right to make sure identity is
             kept secret!
+
+            **Best optimized for desktop view**
         </p>
         <slot></slot>
     </div>
@@ -20,6 +22,12 @@
     }
 </script>
 
-<style lang="scss" scoped>
-
+<style scoped>
+    @media only screen and  (max-width: 500px) {
+        .modal {
+            width: 150px;
+            font-size: 10px;
+            margin-left: 150px;
+        }
+    }
 </style>
