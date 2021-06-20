@@ -1,24 +1,6 @@
 # aliengame
 
-## Project setup
-```
-npm install
-```
+## Made with ❤ from VueJs
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## To build similar games, check out https://frontendmasters.com/
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).

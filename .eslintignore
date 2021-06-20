@@ -1,0 +1,11 @@
+**/*.js
+**/*.vue
+/* eslint-disable */
+Console.log("The entire file ignores the eslint check")
+
+
+build/*.js
+config/*.js
+src/assets
+.eslintrc.js
+babel.config.js
